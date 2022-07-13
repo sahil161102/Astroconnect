@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "astroconnectV1_2",
+    "slug": "astroconnectV1_2",
+    "sdkVersion": "45.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier":".com.testUser.astroconnectV1.2"
+    },
+    "android": {
+        "package":".com.testUser.astroconnectV1.2"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
